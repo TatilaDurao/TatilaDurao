@@ -1,8 +1,8 @@
 ## Meu nome é Tátila Durão, sou professora de programação de jogos e aplicativos!
 <div align="center">
-  <a href="https://github.com/tatidurao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tatidurao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatidurao&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/TatilaDurao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TatilaDurao&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatilaDurao&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,5 +24,5 @@
   <a href="https://www.linkedin.com/in/tatiladurao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
- ![Snake animation](https://github.com/tatidurao/tatidurao/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/TatilaDurao/TatilaDurao/blob/output/github-contribution-grid-snake.svg)
 </div>
